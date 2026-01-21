@@ -6,8 +6,8 @@ layout: default
 
 This is the beginning of my markdown page
 
-![Markdown Logo](./pics/JettaOriginal.jpg "Official Logo")
+<img src="./pics/JettaOriginal.jpg" alt="Markdown Logo" width="300" title="Official Logo">
 
 
 This image is clickable
-[![GitHub Logo](./pics/JettaOriginal.jpg)](https://adumbaj.github.io/DIG-311/)
+[<img src="./pics/JettaOriginal.jpg" alt="GitHub Logo" width="300">](https://adumbaj.github.io/DIG-311/)
