@@ -12,4 +12,4 @@ This is the beginning of my markdown page
 
 
 This image is clickable
-[<img src="./pics/JettaOriginal.jpg" alt="GitHub Logo" width="300">](https://adumbaj.github.io/DIG-311/)
+[<img src="./pics/JettaOriginal.jpg" alt="GitHub Logo" width="300">]
