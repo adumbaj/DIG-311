@@ -6,7 +6,7 @@ layout: default
 
 This is the beginning of my markdown page
 
-[CSC391 Page](https://adumbaj.github.io/DIG391WebTech/)
+[CSC391 Page](https://adumbaj.github.io/CSC391WebTech/)
 
 [Projects](projects.md)
 
